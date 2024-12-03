@@ -1,7 +1,7 @@
 # Some example packages
 pandas
 numpy
-#seaborn
+seaborn
 
 
 # Testing packages
